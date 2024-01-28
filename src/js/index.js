@@ -1,1 +1,3 @@
-console.log("Test skriptu");
+import { testString } from "./vars";
+
+console.log(testString);
